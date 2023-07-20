@@ -1,3 +1,5 @@
 # organizer-instaloader
 
-bash script meant to organize <a href ="https://github.com/instaloader/instaloader">Instaloader</a> downloaded data.
+BASH script meant to organize data downloaded using <a href ="https://github.com/instaloader/instaloader">Instaloader</a>.
+
+Currently only organizes data by year.
