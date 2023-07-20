@@ -1,6 +1,6 @@
 #!/bin/bash
 
-year=2019
+year=2018
 
 while [ ${year} -ne 2024 ]
 do
