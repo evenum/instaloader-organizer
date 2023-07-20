@@ -7,7 +7,7 @@ do
 	if [ -d ${year}-posts ]; then
 		echo "${year}-posts already exists."
 	else
-		mkdir -v "${year}-posts"
+		mkdir "${year}-posts"
 		echo "Successfully created folder: ${year}-posts."
 	fi
 	mv -i ${year}*.{mp4,jpg,xz,txt} ${year}-posts
