@@ -5,7 +5,7 @@ BASH script meant to organize data downloaded using <a href ="https://github.com
 <br><br>
 Currently only organizes data by year.
 </p>
-<br><br>
+<br>
 Add script's path to the $PATH environment variable in your .bashrc using
 
 ```
