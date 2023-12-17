@@ -7,13 +7,15 @@ Currently only organizes data by year.
 </p>
 <br><br>
 Add script's path to the $PATH environment variable in your .bashrc using
+
 ```
-export PATH="<script/path/here>:$PATH"
+> export PATH="<script/path/here>:PATH"
 ```
+
 then source the .bashrc file using
 
 ```
-source ~/.bashrc
+> source ~/.bashrc
 ```
 
 ## Script Functions
