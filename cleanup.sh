@@ -1,0 +1,1 @@
+/root/bin/cleanup.sh
